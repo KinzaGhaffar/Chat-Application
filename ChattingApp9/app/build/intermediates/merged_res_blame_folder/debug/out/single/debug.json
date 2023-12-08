@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_right_side_background.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\item_right_side_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_picture.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\profile_picture.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_front__animation.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_front__animation.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animations.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\anim\\bottom_animations.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_file.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\menu\\menu_file.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_right.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\item_right.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_left_side_background.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\item_left_side_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chat.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_baseline_chat.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_left.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\item_left.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animations.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\anim\\top_animations.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\ChattingApp9\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\Downloads\\ChattingApp9\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    }
+]
