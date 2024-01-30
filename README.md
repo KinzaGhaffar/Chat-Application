@@ -1,6 +1,8 @@
 # ChatApp - Modern Android Chat Application
 
-Welcome to ChatApp, a cutting-edge Android chat application designed for seamless communication. ChatApp provides an intuitive user experience with real-time messaging, user authentication, and a host of other features.
+Welcome to ChatApp, a cutting-edge Android chat application designed for seamless communication. The application leverages Firebase for real-time data synchronization, user authentication, and cloud storage.
+
+The application utilizes a modular and efficient workflow to seamlessly connect users and facilitate messaging. It leverages the power of **`RecyclerViews`** and **`Adapters`**. RecyclerViews efficiently display lists of users and chat messages, ensuring a smooth user experience. The Kotlin orchestrates the communication with Firebase, utilizing **`Models`** such as *User* and *Chat* to represent user details and messages. Adapters, including *UserAdapter* and *ChatAdapter*, bridge the gap between data models and user interface elements, enhancing the readability and maintainability of the codebase. The Firebase service is employed for real-time messaging, and notifications are handled through Firebase Cloud Messaging (FCM).
 
 ## Features
 
